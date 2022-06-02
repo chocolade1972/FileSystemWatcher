@@ -1,0 +1,16 @@
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\bin\Debug\Watcher_WPF.exe.config
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\bin\Debug\Watcher_WPF.exe
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\bin\Debug\Watcher_WPF.pdb
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\FilterWindow.g.cs
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\App.g.cs
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF_MarkupCompile.cache
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF_MarkupCompile.lref
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\FilterWindow.baml
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\MainWindow.baml
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF.g.resources
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF.Properties.Resources.resources
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF.csproj.GenerateResource.cache
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF.exe
+C:\Users\Chocolade1972\Downloads\Watcher_WPF-master\Watcher_WPF-master\Watcher_WPF\obj\Debug\Watcher_WPF.pdb
